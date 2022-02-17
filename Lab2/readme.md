@@ -2,8 +2,8 @@
 
 # NFA
 
-![Screenshot](nfa.png) 
+![Screenshot](nfa.jpg) 
 
 # NFA to DFA
 
-![Screenshot](nfa_to_dfa.png) 
+![Screenshot](nfa_to_dfa.jpg) 
