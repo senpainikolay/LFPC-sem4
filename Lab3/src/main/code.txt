@@ -1,6 +1,6 @@
 
 //  Function Declaration
-def mult(x, y) {
+def int mult(x, y) {
 return x * y  
 }  
 
