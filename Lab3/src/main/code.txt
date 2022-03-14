@@ -1,0 +1,28 @@
+
+//  Function Declaration
+def mult(x, y) {
+return x * y  
+}  
+
+
+
+
+def main() {   
+
+var a = 8 
+var b = 10
+
+// Function usagae    
+var res = mult(a, b)  
+
+// Bool declaration. 
+var b = False
+
+} 
+
+
+
+
+
+
+
