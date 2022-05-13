@@ -1,0 +1,22 @@
+def int mult(int x, int  y) {
+return x * y
+}
+
+
+
+var b =  3 * 4 + 2
+var a = False
+if ( 5 > 2) {var b = 3}  else { var auf = 412}  
+
+kek_call()
+
+def main() {   
+
+var a = True
+var b = 10.5
+   
+var res = mult(a,b)
+
+var b = False
+
+} 
